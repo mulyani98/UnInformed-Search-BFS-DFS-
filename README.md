@@ -1,4 +1,4 @@
-# UnInformed-Search-BFS-DFS-
+# UnInformed-Search BFS-DFS
 # Breadth First Search (BFS) &amp; Depth First Search (DFS) 
 ## Source Code in python
 
